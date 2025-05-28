@@ -1,4 +1,4 @@
-**Advanced Alarm Clock Python Project By:_Akash Debnath_**
+**Advanced Alarm Clock Python Project By: _Akash Debnath_**
 
 **📅 Project Overview**
 This project is a fully functional alarm clock application built using Python and Tkinter.
